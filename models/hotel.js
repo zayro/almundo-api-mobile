@@ -15,6 +15,4 @@ const HotelSchema = new Schema({
 	"activo": Boolean
 });
 
-
-
 export default  mongoose.model('hotel', HotelSchema)

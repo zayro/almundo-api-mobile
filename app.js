@@ -61,7 +61,6 @@ app.use((req, res, next) => {
 });
 
 
-
 // config routes ===================================================
 // Routes which should handle requests
 // routes ==========================================================
